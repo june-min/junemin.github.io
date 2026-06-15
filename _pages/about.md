@@ -17,6 +17,6 @@ In addition, I have conducted research on optimization and machine learning appl
 
 My technical background includes Python, C++, MATLAB, SPSS, LoRA fine-tuning, large language model applications, optimization algorithms, machine learning, and data analysis. I also have experience with algorithm competitions and mathematical modeling.
 
-You can find my CV here: [Curriculum Vitae](/assets/cv.pdf).
+You can find my CV here: [Curriculum Vitae](https://june-min.github.io/junemin.github.io/assets/cv.pdf).
 
 Email: minmin200506@163.com
